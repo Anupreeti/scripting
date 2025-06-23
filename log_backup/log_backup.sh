@@ -1,7 +1,5 @@
 #!/bin/bash
 
-
-
 backup_dir="backup_logs_$(date +%F)"
 mkdir -p "$backup_dir"
 
